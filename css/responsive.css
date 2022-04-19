@@ -32,6 +32,7 @@
     }    
     .v-class-resp{
         opacity: 0;
+        display: none;
     }
     .box-main{
         flex-direction: column-reverse;
